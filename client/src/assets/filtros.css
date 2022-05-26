@@ -1,0 +1,10 @@
+.estilos.content {
+    display: flex;
+    justify-content: space-around;
+  }
+
+
+  .estilos{
+    color: rgb(226, 14, 14);
+  
+  }

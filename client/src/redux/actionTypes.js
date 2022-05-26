@@ -1,0 +1,10 @@
+export const GET_VIDEOGAMES= 'GET_VIDEOGAMES';
+export const GET_GAME_DETAIL= 'GET_GAME_DETAIL';
+export const GET_GENRES = 'GET_GENRES';
+export const POST_GAME= 'POST_GAME';
+export const GET_VIDEOGAMES_NAME= 'GET_VIDEOGAMES_NAME';
+export const SORT_VIDEOGAMES= 'SORT_VIDEOGAMES';
+export const ORDER_BY= 'ORDER_BY';
+export const ORDER_BY_R= 'ORDER_BY_R';
+export const SORT_GENRE= 'SORT_GENRE';
+export const CLEAR= 'CLEAR';

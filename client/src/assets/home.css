@@ -1,0 +1,28 @@
+.Home {
+    background: rgb(95, 95, 96);
+    position: relative;
+    background-size:auto;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.contentCards {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(5, 1fr);
+    column-gap: 50px;
+    grid-row-gap: 30px;
+    justify-content: space-evenly;
+    justify-content: center;
+    align-content: space-evenly;
+    align-items: center;
+    margin-left: 100px;
+}
+
+.botForm{
+    background: rgba(255, 255, 255, 0.397);
+    border-radius: 16px;
+    border: 1px solid rgba(255, 255, 255, 0.498);
+  }
+  .botForm:hover {
+    background-color: var(--primary-color);
+  }

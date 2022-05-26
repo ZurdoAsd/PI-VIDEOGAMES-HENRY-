@@ -1,0 +1,19 @@
+
+.input {
+    color : black;
+    font-weight: bold;
+    border: none;
+    font-size: 15px;
+    width: 180px;
+    height: 28px;  
+    border-radius: 5px; 
+}
+
+.button{ 
+    background: rgba(255, 255, 255, 0.397);
+    border-radius: 16px;
+    border: 1px solid rgba(255, 255, 255, 0.498);
+  }
+  .botForm:hover {
+    background-color: var(--primary-color);
+  }

@@ -1,0 +1,19 @@
+.head{
+    background: rgb(95, 95, 96);
+    background-size:auto;
+    background-repeat: no-repeat;
+    background-position: center;
+
+}
+.image {
+    margin: 2%;
+}
+
+.botForm{
+    background: rgba(255, 255, 255, 0.397);
+    border-radius: 16px;
+    border: 1px solid rgba(255, 255, 255, 0.498);
+  }
+  .botForm:hover {
+    background-color: var(--primary-color);
+  }
